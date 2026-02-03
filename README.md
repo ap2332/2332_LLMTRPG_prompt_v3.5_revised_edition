@@ -1,0 +1,1 @@
+# 2332_LLMTRPG_prompt_v3.5_revised_edition
